@@ -1,0 +1,100 @@
+@media screen and (max-width:480px){
+       .main,.main2,.senden{
+           width: 100%;
+       }
+       body{
+           width: 100%;
+       }
+       .content{
+           width: 90%;
+       }
+}
+@media screen and (min-width: 640px) {
+    
+
+
+.main2{
+    max-width: 700px;
+    width: 70%;
+	float: right;
+	text-align:left;
+    margin-block-end: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content{
+    position: relative;
+	box-sizing: border-box;
+	overflow: hidden;
+    width: 90%;
+   
+    text-align: center;
+}
+.main{
+    margin-top: 20px;
+	margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+    width: 90%;
+}
+.senden{
+    max-width: 300px;
+    width: 30%;
+    float: right;
+    text-align: left;
+}
+}
+.main h1{
+    font-size: 46px;
+    color: rgb(86, 119, 228);
+    
+    line-height: 140%;
+}
+.main2 details{
+    margin-left: 20px;
+}
+.main2 h2{
+    margin-left: 20px;
+}
+.main2 p{
+    font-size: 20px;
+    line-height: 140%;
+    margin-left: 15px;
+    
+}
+.main2 li{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+
+.main2 summary{
+    font-size: 25px;
+    margin-top: 15px;   
+   }
+body{
+    font-size: 14px;
+	line-height: 20px;
+    
+    
+
+}
+
+
+.senden p{
+    font-size: 16px;
+}
+.senden img{
+    display:block;
+}
+.bottom{
+    width: 100%;
+    padding-top: 27px;
+	padding-bottom: 20px;
+	color: rgb(255, 255, 255);
+	background: rgb(86,102,190) ;
+	text-shadow: 0 0 2px rgb(51, 51, 51);
+   
+}
