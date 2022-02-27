@@ -8,6 +8,9 @@
        .content{
            width: 90%;
        }
+       .header-inner img{
+        width: 100%;
+    }
 }
 @media screen and (min-width: 640px) {
     
@@ -80,7 +83,7 @@
    }
 body{
     font-size: 14px;
-	line-height: 20px;
+	
     
     
 
