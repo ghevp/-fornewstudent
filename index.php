@@ -28,7 +28,7 @@
             <div class="header-site-menu">
                 <nav class="site-menu">
                     <ul>
-                        <li>Home</li>
+                        <li>ホーム</li>
                         <li>新入生の皆さんへ</li>
                         <li>おしらせ</li>
                         <li>困った時</li><!--増やすときはボタンの使用で変更-->
