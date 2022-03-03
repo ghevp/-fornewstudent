@@ -108,7 +108,7 @@ a{
     float: right;
     text-align: left;
 }
-}
+}/*ここまでPC向け*/
 .main h1{
 
     color: rgb(86, 119, 228);
@@ -119,8 +119,66 @@ a{
     font-size: 18px;
 }
 .info-before p{
-    font-size: 16px;
+    font-size: 18px;
 }
+.info-before h2{
+    font-size: 24px;
+}
+.info-before a{
+    color:#00bfff;
+    text-decoration:blue ;
+}
+details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: .5em .5em 0;
+    margin-top: 10px;
+    margin-bottom: 6px;
+}
+summary {
+    position: relative;
+    display: block; /* 矢印を消す */
+    padding-left: 30px; /* アイコン分の余白 */
+    cursor: pointer;
+    margin-top: 8px;
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+  summary::-webkit-details-marker {
+    display: none; /* 矢印を消す */
+  }
+  /* 疑似要素でアイコンを表示 */
+  summary:before,
+  summary:after {
+    content: "";
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    
+  }
+  summary:before {
+    width: 20px;
+    height: 20px;
+    border-radius: 6px;
+    background-color: #1da1ff;
+  }
+  summary:after {
+    left: 6px;
+    width: 10px;
+    height: 10px;
+    border: 4px solid transparent;
+    border-left: 8px solid #fff;
+    box-sizing: border-box;
+    transition: .1s;
+  }
+  /* オープン時 */
+  details[open] summary:after {
+    transform: rotate(90deg); /* 90度回転 */
+    left: 4px;
+    top: 5px;
+  }
 .first-check h1{
     color: #0000cd;
     font-size: 36px;
