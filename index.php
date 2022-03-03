@@ -119,31 +119,38 @@
             また、ストレージがHDD、eMMCのものは絶対に避けましょう。起動や動作がSSDのものに比べて段違いに遅いです。<br>
             また、メモリ容量が8GB未満のものであるとそもそも満足にPCが動作しない可能性があります。絶対に避けましょう。
             
-            <li>
+         
             </ul>
             <h2>学部別おすすめのPC</h2>
             <p>学科ごとにお勧めのPCを記載しています。<br>
             中の人はパソコンヲタクではありますが情報の不備等がある可能性があるので、あくまでも参考程度にご覧ください。</p>
             <details>
             <summary>情報学部</summary>
+            <p>先述しましたが、Macは絶対に避けてください。というのもOSだけではなく、現代のMacに搭載されているCPUと一般的なWindows11の
             <h2>ゲームも楽しみたい人へ</h2>
-            <p>ゲームをするためにはグラフィックボードは必須です。ですので、グラフィックボード搭載のPCを買うとよいでしょうがFPS等の非常に高いスペックを要求されるゲームをする場合はデスクトップPCを別に購入することをお勧めします。
+            <p>ゲームをするためにはグラフィックボードは必須です。ですので、グラフィックボード搭載のPCを買うとよいでしょうがFPS等の非常に高いスペックを要求されるゲームをする場合はデスクトップPCを別に購入することをお勧めします。<br>
+            中程度のゲームであればグラフィックボード搭載のノートPCでも対応は可能です。<br>
+            そのような用途のPCを求めている人にはGeForce RTX™ 3050 Tiを搭載していながらも持ち運びが可能な軽量さを兼ね備えている<a href=","https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-15-plus-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A/spd/inspiron-15-7510-laptop/cai215hspchs16on3ojp#features_section",">Inspiron 15 Plus</a>をおすすめします。</p>
+            <h2>それ以外の人へ</h2>
+            <p>情報学部の授業では多量のメモリを必要とするソフトを使う事が多々あります。ですので、メモリ16GBを搭載した<a href=","https://www.dell.com/ja-jp/shop/cty/pdp/spd/inspiron-15-3511-laptop/cai3453hlwts16on3ojp?gacd=9643257-23732657-5785552-266271997-127759547&dgc=af&VEN1=/Vv6e0WKODg-*auGi30V6YDcCKerYpozIg&dclid=CPj1-bKCqvYCFQaNvAodUQoM7Q&nclid=DIBttjKlZEo-8QBoXQvCfzuePsqAVOgbZNvNUi6irqfJQk-ScuiSR2d27tOCOlWS#features_section",">Inspiron 15 3000</a>をおすすめします。</p>
             </details>
             <details>
             <summary>工学部</summary>
             </details>
             <details>
-            <summary>人文社会学部</summary>
+            <summary>人文社会科学部,農学部</summary>
+            <p>レポート等を書いたりするのにパソコンは必須ですがハイスペックである必要はありません<br>
+            しかしながら、ある程度のスペックを確保すると快適に勉強することができるので、AMD Ryzen™ 7 5700Uを搭載した<a href=","https://deals.dell.com/ja-jp/productdetail/damd",">Inspiron 14 AMD</a>をお勧めします。</p>
             </details>
             <details>
             <summary>教育学部、地域創造学環</summary>
             <h2>教育学部美術専修の人、地域創造学環のアートマネジメントコースの人へ</h2>
             <p>デザイン分野ではMacを使う事が多いそうなのでMacを購入して慣れておくことも良いのではないかと思います。<br>
             しかしながら、教師になりたい方は学校現場では基本的にWindowsを使用するという観点から、WindowsPCを推奨します。<br>
-            おすすめのPCは<a href=","https://www.apple.com/jp_edu_1460/shop/buy-mac/macbook-air",">MacBookAir</a>です
-            </p>
+            おすすめのPCは<a href=","https://www.apple.com/jp_edu_1460/shop/buy-mac/macbook-air",">MacBookAir</a>です。作品をたくさん作るのであれば512GBモデルを選択した方がいいのではないかと思います。</p>
+          
             <h2>教育学部技術教育専修の人へ</h2>
-            <p>他学部に比べて高いスペックのPCが要求されます。Windowsにしておくと良いと思います。<br>
+            <p>他学部に比べて高いスペックのPCが要求されます。高いスペックを要求される授業が求められるため、メモリが16GB、SSD容量が512GBで、Intel Core™ i7-1165G7 を搭載した<a href=","https://www.dell.com/ja-jp/shop/cty/pdp/spd/inspiron-15-3511-laptop/cai3453hlwts16on3ojp?gacd=9643257-23732657-5785552-266271997-127759547&dgc=af&VEN1=/Vv6e0WKODg-*auGi30V6YDcCKerYpozIg&dclid=CPj1-bKCqvYCFQaNvAodUQoM7Q&nclid=DIBttjKlZEo-8QBoXQvCfzuePsqAVOgbZNvNUi6irqfJQk-ScuiSR2d27tOCOlWS#features_section",">Inspiron 15 3000</a>をおすすめします。<br>
             </p>
             <h2>それ以外の人へ</h2>
             <p>レポート等を書いたりするのにパソコンは必須ですがハイスペックである必要はありません<br>
@@ -152,9 +159,7 @@
             <details>
             <summary>理学部</summary>
             </details>
-            <details>
-            <summary>農学部</summary>
-            </details>
+            
             </details>
             <details>
             <summary>浜キャン生はこちら!</summary>

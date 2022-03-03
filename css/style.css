@@ -158,6 +158,11 @@ summary {
     left: 0;
     
   }
+  summary {
+    font-weight: bold;
+    margin: 16px 10px 10px 16px;
+    padding: 0px 0 0 24px ;
+}
   summary:before {
     width: 20px;
     height: 20px;
@@ -178,7 +183,11 @@ summary {
     transform: rotate(90deg); /* 90度回転 */
     left: 4px;
     top: 5px;
+    
   }
+ 
+
+
 .first-check h1{
     color: #0000cd;
     font-size: 36px;
