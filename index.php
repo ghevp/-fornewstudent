@@ -28,9 +28,13 @@
   gtag('config', 'G-0P8XN7BCL8');
 </script>
         <meta name="author" content="ぐゑ">
-        <meta name="description" content="このウェブサイトでは新入生のために知ってもらいたい情報を集めました。今後も情報や機能を更新予定なのでご愛顧よろしくお願いします。">
-        <meta property="og:image" content="img/otamesi.png">
-        <link rel="favicon" href="img/favicon.ico" type="image/x-icon">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@ghevp">
+        <meta property="og:url" content="https://studinfo-shizuhama.ghevp.com">
+        <meta property="og:title" content="静浜学生情報サイト">
+        <meta name="og:description" content="このウェブサイトでは新入生のために知ってもらいたい情報を集めました。今後も情報や機能を更新予定なのでご愛顧よろしくお願いします。">
+        <meta property="og:image" content="https://studinfo-shizuhama.ghevp.com/img/con1.png">
+        <link rel="icon" href="img/favicon.ico" type="image/x-icon">
         <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -351,7 +355,7 @@
         
            
     ?>
-    
+    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="静浜学生情報サイトを見てきました！" data-url="https://studinfo-shizuhama.ghevp.com/index.php?page=home" data-via="ghevp" data-lang="ja" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </main>
     <footer class="footer">
 
