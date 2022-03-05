@@ -6,9 +6,15 @@ a{
     color:inherit;
     text-decoration: none;
 }
-@media screen and (max-width:480px){
-       .main,.wrapper,.senden{
+@media screen and (max-width:640px){
+       .wrapper,.senden{
            width: 100%;
+       }
+       main{
+           width: 90%;
+           margin-left: 5%;
+           margin-right: 5%;
+           margin-top: 40px;
        }
        body{
            width: 100%;
@@ -19,43 +25,73 @@ a{
        .header-inner img{
         width: 100%;
     }
+    .header-inner img{
+        width: 250px;
+        margin-left: 5%;
+        margin-right: 5%;   
+        margin-top: 8px;  
+        
+    }
+    .site-menu ul{
+        display: block;
+        text-align: center;
+    }
+    .site-menu li{
+        margin-top: 20px;
+    }
+    .header{
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 64px;
+        background-color:aliceblue;
+        z-index: 10;/*数字の大きい程前に表示される*/
+        box-shadow: 0 3px 6px rgba(0, 0, 0, 1);
+    }
+    .header-inner{
+        padding-left: 20px;
+        padding-right: 20px;
+        height: 100%;
+        position: relative;
+    }
+    .header-site-menu{
+        position:absolute;
+        top: 100%;
+        left: 0;
+        right:0;
+        color: #fff;
+        background-color: #1da1ff;
+        display: none;
+
+    }   
+    .header-site-menu.is-show{
+        display: block;
+    }
+   
+    .toggle-menu-button{
+        display: block;
+        width: 44px;
+        height: 34px;
+        background-image: url(../img/hbm.svg);
+        background-size: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: transparent;
+        border: none;
+       
+        outline: none;
+    } 
 }
 @media screen and (min-width: 640px) {
     
 .header-inner img{
     width: 100%;
-    max-width: 450px;
+    max-width: 400px;
    
     
 }
-.iframe-wrap {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%;
-    overflow:auto; 
-    -webkit-overflow-scrolling:touch;
-    border:2px solid #ccc; 
-  }
-  .iframe-wrap iframe {
-      position:absolute;
-      top:0;
-      left:0;
-      width:100%;
-      height:100%;
-      border:none;
-      display:block;
-  }
-.header-inner{
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 5%;
-    padding-right: 5%;
-    display: flex;
-    max-width: 1280px;
-    height: fit-content;
-    justify-content: space-between;
-    align-items: center;
-}
+
 .site-menu ul{
     display: flex;
     
@@ -108,7 +144,28 @@ a{
     float: right;
     text-align: left;
 }
+
+
 }/*ここまでPC向け*/
+.header-inner{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: flex;
+    max-width: 1280px;
+    height: fit-content;
+    justify-content: space-between;
+    align-items: center;
+}
+.pic img{
+    width: 100%;
+    margin-top: 20px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
 .main h1{
 
     color: rgb(86, 119, 228);
@@ -150,6 +207,24 @@ summary {
   summary::-webkit-details-marker {
     display: none; /* 矢印を消す */
   }
+  .iframe-wrap {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+    overflow:auto; 
+    -webkit-overflow-scrolling:touch;
+    border:2px solid #ccc; 
+  }
+  .iframe-wrap iframe {
+      position:absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+      border:none;
+      display:block;
+  }
+
   /* 疑似要素でアイコンを表示 */
   summary:before,
   summary:after {
@@ -189,7 +264,7 @@ summary {
     
   }
  
-.info-before li{
+.info-before li,.home li{
     font-size: 20px;
 }
 

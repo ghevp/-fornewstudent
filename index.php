@@ -55,7 +55,21 @@
             </div>
         </div>
     </header>
+    <div class="pic">
+    <?php
+      date_default_timezone_set('Asia/Tokyo');
+      $month = date("m");
+      if("home"==$page){
+      if ($month==2||$month==3){
+   echo" <img src=","img/fornewstudent.png",">";
+            }else{
+                echo"<img src","img/otamesi.png",">";
+            };
+      };
+?>
+    </div>
     <main class="main">
+   
     <?php
      date_default_timezone_set('Asia/Tokyo');
         $month = date("m");
@@ -63,14 +77,19 @@
         if ($month==2||$month==3){
     echo
         "<div class=","home",">
+        
         <p><b>新入生のみなさん、ご入学おめでとうございます!</b><br>
         このウェブサイトでは、新入生だけではなく、既に在学中の人にとっても読んで損はないコンテンツを公開しているのでよろしくお願いします。<br>
         新入生向けコンテンツは<a href=","index.php?page=newstudents",">こちら</a>‼</p>";
               }else{
-                  echo"<h2>静浜学生情報サイトへようこそ!</h2>";
+                  echo"<div class=","home",">
+                  <h2>静浜学生情報サイトへようこそ!</h2>";
               };
               echo"<h2>大学生活お役立ちコンテンツ</h2>
-              <p>a</p>
+              <ul>
+                <li>ShizudaiTech</li>
+              <p>非常に不便であると有名な静大の学情を便利にしてくれるツールをまとめたウェブサイトです。<br>
+              </p>
               </div>";
             };
         if("newstudents"==$page){
@@ -186,7 +205,11 @@
             };
             echo"<details>
             <summary>浜キャン生はこちら!</summary>
-            <h2>用語説明<h2>
+            <h2>坂上と坂下について</h2>
+            <p>浜キャンは台地の上にあります。<br>
+            その台地の上と下をつなぐ道路の坂がかなりあるため、毎日の通学を考えるとかなり大変かもしれません。<br>
+            </p>
+            <iframe src=","https://www.google.com/maps/embed?pb=!4v1646491301177!6m8!1m7!1svODgy7NAaoLXwj9PMnF-SQ!2m2!1d34.72891481290574!2d137.7144885379222!3f153.99774243815293!4f-5.418017547228487!5f1.598266724894137"," width=","100%"," height=","450px"," style=","border:0;"," allowfullscreen=",""," loading=","lazy","></iframe>
             
             </details>
             <details>
@@ -246,8 +269,8 @@
         };
         if("question"==$page){
             echo"<h2>ウェブサイト運営者への質問</h2>
-            <p>質問や訂正事項等がありましたら、私のTwitterにダイレクトメッセージを送ってくださると幸いです。</p>
-            <a href=","https://twitter.com/messages/compose?recipient_id=&ref_src=twsrc%5Etfw"," class=","twitter-dm-button"," data-screen-name=","ghevp"," data-show-count=","false",">Message @ghevp</a><script async src=","https://platform.twitter.com/widgets.js"," charset=","utf-8","></script>";
+            <p>質問や訂正事項,掲載してほしい情報等がありましたら、私のTwitterにダイレクトメッセージを送ってくださると幸いです。</p>
+            <a href=","https://twitter.com/messages/compose?recipient_id=&ref_src=twsrc%5Etfw"," class=","twitter-dm-button"," data-screen-name=","ghevp"," data-show-count=","false",">Message @ghevp</a><script  async  src=","https://platform.twitter.com/widgets.js","  charset=","utf-8","></script>";
         };
        
         
@@ -272,5 +295,10 @@
                 <p class="copyright"><small>copyright <a href="https://ghevp.com">ぐゑ</a> all rights reserved.</small></p>
                 <a href="https://twitter.com/ghevp?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">このウェブサイト作成者のTwitterをフォロー</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </footer>   
+    <script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+  <script src="js/script.js"></script>
   </body>
 </html>
