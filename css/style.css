@@ -172,7 +172,7 @@ a{
     font-size: 36px;
     line-height: 140%;
 }
-.home p{
+.home p,.notice p,.question p{
     font-size: 18px;
 }
 .add-info p{
@@ -184,7 +184,7 @@ a{
 .info-before h2{
     font-size: 24px;
 }
-.info-before a,.home a{
+.question a,.notice a,.info-before a,.home a{
     color:#00bfff;
     text-decoration:blue ;
 }
