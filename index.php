@@ -27,6 +27,10 @@
 
   gtag('config', 'G-0P8XN7BCL8');
 </script>
+        <meta name="author" content="ぐゑ">
+        <meta name="description" content="このウェブサイトでは新入生のために知ってもらいたい情報を集めました。今後も情報や機能を更新予定なのでご愛顧よろしくお願いします。">
+        <meta property="og:image" content="img/otamesi.png">
+        <link rel="favicon" href="img/favicon.ico" type="image/x-icon">
         <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -286,16 +290,29 @@
             </details>
             </details>
             <details>
-            <summary>浜キャン生に知ってほしい情報</summary>
-            <h2>ウェルカムキャンパス<h2>
+            <summary>浜キャン生に知ってほしいこと</summary>
+            <h2>ウェルカムキャンパス</h2>
             <p>みんなでレクリエーションをすることによって友達作りができるかもしれません<br>
             また、先輩とも交流できるかもしれません</p>
+            <details>
+            <summary>行動情報学科の人へ</summary>
+            <p>一年後期のプログラミングは三つの学科の中で一番きついと言われています。<br>
+            今のうちにjavaをやっておいて損はないと思います。</br>
+            また、この学科はよく言えば自由、悪く言えば自分のやりたいことが明確に無いと迷いやすいのでこのつかの間の休息期間を使って自分のやりたいことを探してみるといいと思います。<br>
+            べつに勉強に関わることでなくても、例えば「サークルをがんばる！」だとか「友達を作る」でもいいのでそういった自分の生活のハリになるような目標を立ててみると充実した大学生活を送ればいいのではないかと思います。</p>
+            </details>
             </details>
             <details>
-            <summary>静キャン生に知ってほしい情報</summary>
-            <h2>プレ入学式<h2>
+            <summary>静キャン生に知ってほしいこと</summary>
+            <h2>プレ入学式</h2>
             <p>みんなでレクリエーションをすることによって友達作りができるかもしれません<br>
             また、先輩とも交流できるかもしれません</p>
+            <details>
+            <summary>夜間主の人へ</summary>
+            <p>昼間なら2・3年生配当の科目が1年生から履修できるのは夜間のアドバンテージです。<br>
+            今年開講された科目が来年開講されるとは限りません。<br>
+            興味のある分野の科目は、多少無理をしてでも取っておくことをおすすめします。</p>
+            </details>
             </details>
            
             <p>不安なことや慣れないことが多くて大変だと思いますが、大学生活は楽しいこともたくさんありますよ!<br>
@@ -313,6 +330,9 @@
             もしもこのプロジェクトに参加したくなった場合は<a href=","https://twitter.com/gakujochan_info",">学情チャンプロジェクトの運営Twitter</a>にDMを送ってください!<br>
             また、ファンアートについてはいつでもお待ちしています！</p>
             <a class=","twitter-timeline"," data-lang=","ja"," data-height=","500"," href=","https://twitter.com/Gakuzyo_chan?ref_src=twsrc%5Etfw",">Tweets by Gakuzyo_chan</a> <script async src=","https://platform.twitter.com/widgets.js"," charset=","utf-8","></script> 
+            <h2>更新履歴</h2>
+            <time datetime=","2022-03-06",">2022/3/6</time>
+            <p>このウェブサイトを新規製作しました</p>
             </div>";
         };
         if("question"==$page){
@@ -320,7 +340,8 @@
             <div class=","question",">
             <h2>ウェブサイト運営者への質問</h2>
             <p>質問や訂正事項,掲載してほしい情報等がありましたら、<a href=","https://twitter.com/ghevp",">私のTwitter</a>にダイレクトメッセージを送ってくださると幸いです。<br>
-            また、もしも何か質問があればいつでも待っているのでそちらに関してもDMへどうぞ</p>
+            また、もしも何か質問があればいつでも待っているのでそちらに関してもDMへどうぞ<br>
+            また、このウェブサイトの一番下にシレっとフォローボタンを配置しています。フォローしてくださると中の人が喜ぶのでフォローよろしくお願いします。</p>
             <a href=","https://twitter.com/messages/compose?recipient_id=&ref_src=twsrc%5Etfw"," class=","twitter-dm-button"," data-screen-name=","ghevp"," data-show-count=","false",">Message @ghevp</a><script  async  src=","https://platform.twitter.com/widgets.js","  charset=","utf-8","></script>
             <h2>協力者募集</h2>
             <p>このウェブサイトでは今後も更新作業を続ける予定です。もしも更新作業に協力してくれるという方がいましたら、作業用のdiscordに招待致しますのでDMを送ってくださると幸いです。</p>
