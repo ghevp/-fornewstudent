@@ -123,8 +123,9 @@
             また、このスライドについてはご自由にダウンロードして頂き活用することも可能です。</p>
             </div>
             <div class=","iframe-wrap",">
-　          <iframe src=","pdf/newstudent.pdf","  frameboader=","0","></iframe>
+　          <iframe src=","pdfjs-2.13.216-dist/web/viewer.html?file=../../pdf/newstudent.pdf","  frameboader=","0","></iframe>
             </div>
+          
             <div class=","add-info",">
             <h2>補足情報</h2>
             <p><b>宗教勧誘等を受けた直後にそのことをSNSに投稿しないようにしてください</b><br>
@@ -138,6 +139,8 @@
             <li>生協関連</li>
             <p>TOEICや電子辞書については、<b>購入する必要はないです</b>。<br>
             書店などのTOEIC対策のものなど自分に合ったものを買うのが一番ですし、あまりたくさんの教材を購入しても忙しい大学生活においては使う事はあまりないでしょう。<br>
+            第二外国語で電子辞書を使用するのですが、これに関しては紙辞書を購入するか、紙辞書が苦手な人は追加コンテンツを購入することも可能です。<br>
+            電子辞書は高額なモノなので<b>本当に必要なものなのか考えてからでも遅くはない</b>と考えます。<br>
             また、学食パスについては、迷っている人は夜ご飯も大学で食べるという人以外は購入は見送っておき、秋学期に再度考えておくことをおすすめします。<br>
             というのもオンライン授業が多いのでお昼時に大学にいるかどうかというのは分りません。ですから、逆に学食パスにより無駄な移動時間が生じてしまう可能性があります。
             <b>個人の生活スタイルに応じて購入は考えましょう。</b></p>
@@ -149,11 +152,16 @@
             <details>
             <summary>PCについてはこちら!</summary>
             <h2>はじめに</h2>
+            <p>ここでは各自購入が必要なPCについての説明をしています。<br>
+            まずは<b>生協PC</b>について、その後に<b>絶対に避けたほうが良いPC</b>や<b>おすすめのPC</b>についてもご紹介します。<b>ただし</b>PCについて何もわからないという人は下の「PCスペック表の見方」をチェックしてからこれらを確認してください。<br>
+            また、昨今の半導体不足によりPCによっては納品に一か月以上かかるものもあります。<b>情報学部の人は遅くとも4月のPC設定会まで、それ以外の人は授業開始までにパソコンが手元に入るかを確認してから</b>購入してください。<br>
+            </p>
+            <h2>生協PC等について</h2>
             <p>TwitterやYouTubeなどのSNSで生協PCはダメだ!等の情報が散見されますが、これは<b>人によります</b>。<br>
             <b>PCカバーをつけずに自転車のかごにPCを入れるような人</b>、<b>PCの画面部分を持ち、PCを持ち上げて運ぼうとする人</b>など極めて基礎的なコンピュータに対する知識がない人、モノを大切に扱う能力のない人は<b>非常に強固な保障の効いた生協PCの購入をおすすめします</b>。<br>
             <b>しかしながら</b>そうでない人に関しては生協以外を通して購入した方が金銭的な負担は低いと思われますし、何より自分に合ったパソコンを選ぶことができるので生協以外でのPC購入がおすすめです。<br>
-            ここでは、各学部ごとにお勧めのPCを紹介するとともに<b>絶対に避けたほうが良いPC</b>についてもご紹介します。<b>ただし</b>PCについて何もわからないという人は下の「PCスペック表の見方」をチェックしてからこれらを確認してください。<br>
-            また、昨今の半導体不足によりPCによっては納品に一か月以上かかるものもあります。<b>情報学部の人は遅くとも4月のPC設定会まで、それ以外の人は授業開始までにパソコンが手元に入るかを確認してから</b>購入してください。</p>
+            プリンタやサブモニタなどの生協PCのセット商品については、生協で購入する必要はないです。ただし、作業をする上では<b>中の人の体感上1.8倍くらい</b>作業効率が上昇するのでサブモニタは購入するべきだと考えています。<br>
+            <b>一人暮らしの情報学部以外の方</b>は、プリンタも必須です。（情報学部には枚数制限がありますが、無償で使えるプリンタがあります。）</p>
             <details>
             <summary>PCスペック表の見方(わからない方向け）</summary>
             <h2>PCスペック表とは?</h2>
@@ -171,7 +179,8 @@
             小さすぎると学業に必要なソフトを満足に扱えないので絶対に8GB以上のものを購入しましょう。</p>
             <li>記憶量、記憶媒体</li>
             <p>SSDやHDD、eMMCの文字と共に○○GBと表記されることが多いです。まず、SSDやHDD,eMMC等に関してですが、記憶媒体の形式をさしています。場合によっては転送速度が○○MB/sのような形で示されることもありますが、これが速いほど読み込みが早いことを示しています。<br>
-            これが速いとアプリやPC本体の立ち上げが高速になりますが、逆に遅いと満足にアプリを扱えない事が多々あるので低速な記憶媒体であるHDDやeMMCを搭載しているPCは絶対に購入しないようにしてください</p>
+            これが速いとアプリやPC本体の立ち上げが高速になりますが、逆に遅いと満足にアプリを扱えない事が多々あるので低速な記憶媒体であるHDDやeMMCを搭載しているPCは絶対に購入しないようにしてください。<br>
+            また、「256GB」,「512GB」などの表記がありますが、これは容量の大きさです。256GB以上のものを購入しましょう。</p>
             <li>画面サイズ</li>
             <p>PCの画面の大きさを示しています。大きいほど作業効率は上がりますが、持ち運びが不便です。</p>
             <li>GPU</li>
@@ -180,7 +189,7 @@
 
             </details>
             <h2>絶対に購入してはいけないPC</h2>
-            <p>下記の条件を<b>すべて満たさない</b>PCを購入することを強くお勧めします。
+            <p>下記の条件を<b>ひとつでも満たすもの</b>は購入しないことをおすすめします。</p>
             <ul>
             <li>・CPUがIntel社のCoreシリーズ,AMD社のRyzenシリーズ<b>以外</b>のもの</li>
             <p><b>工学部、情報学部の方以外</b>はApple社のM1チップ搭載のMacbookを使用することも可能ですが、MacOSになれていない人が調子に乗ってMacを使うのはお勧めしません。<br>
@@ -213,20 +222,24 @@
             中程度のゲームであればグラフィックボード搭載のノートPCでも対応は可能です。<br>
             そのような用途のPCを求めている人にはGeForce RTX™ 3050 Tiを搭載していながらも持ち運びが可能な軽量さを兼ね備えている<a href=","https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-15-plus-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A/spd/inspiron-15-7510-laptop/cai215hspchs16on3ojp#features_section",">Inspiron 15 Plus</a>をおすすめします。ただし、少々大きいとはおもいます。</p>
             <h2>それ以外の人へ</h2>
-            <p>情報学部の授業では多量のメモリを必要とするソフトを使う事が多々あります。ですので、メモリ16GBを搭載した<a href=","https://www.dell.com/ja-jp/work/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/xps-13-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC/spd/xps-13-9305-laptop/cax6300hlits16on3ojp","</a>XPS 13</a>や<a href=","https://www.lenovo.com/jp/ja/kakaku/notebooks/ideapad/flex-5-series/IdeaPad-Flex-5-14ITL-05/p/82HS00X3JP",">IdeaPad Flex 550i</a>をおすすめします。</p>
+            <p>情報学部の授業では多量のメモリを必要とするソフトを使う事が多々あります。ですので、メモリ16GBを搭載した<a href=","https://www.dell.com/ja-jp/shop/cty/pdp/spd/xps-13-9305-laptop/cax6300hlits16on3ojp?gacd=9643257-23732657-5785552-266271997-127759547&dgc=af&VEN1=/Vv6e0WKODg-HCJId2iHEvWGkwMrvmNQ0w&dclid=CIWX7aCls_YCFdMMvQodq9kF2w&nclid=DIBttjKlZEo-8QBoXQvCfzuePsqAVOgbZNvNUi6irqfJQk-ScuiSR2d27tOCOlWS","</a>XPS 13</a>や<a href=","https://www.lenovo.com/jp/ja/kakaku/notebooks/ideapad/flex-5-series/IdeaPad-Flex-5-14ITL-05/p/82HS00X3JP",">IdeaPad Flex 550i</a>をおすすめします。<br>
+            また、「価格com」というサイトにて情報学部の皆さんが快適に授業を受けられるスペックのPCの一覧表を作成しました。<a href=","https://kakaku.com/pc/note-pc/itemlist.aspx?pdf_Spec101=39,53,54,56&pdf_Spec105=29,30&pdf_Spec113=11,13,16,18,20&pdf_Spec116=2&pdf_Spec301=11-13,13-14.5&pdf_Spec303=-1.0,1.0-1.5,1.5-2.0&pdf_Spec307=1000-,512-1000&pdf_Spec308=16-32,32-",">こちら</a>よりサイトに飛んでいただいて、自分好みのPCを選ぶのはいかがでしょうか？</p>
             </details>
             <details>
             <summary>工学部</summary>
             <p>プログラミング等を行うため、他学部に比べて比較的高いスペックのPCが要求されます。<br>
-            そのため、メモリが16GB、SSD容量が512GBで、Intel Core™ i7-1165G7 を搭載した<a href=","https://www.dell.com/ja-jp/work/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/xps-13-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC/spd/xps-13-9305-laptop/cax6300hlits16on3ojp","</a>XPS 13</a>や<a href=","https://www.lenovo.com/jp/ja/kakaku/notebooks/ideapad/flex-5-series/IdeaPad-Flex-5-14ITL-05/p/82HS00X3JP",">IdeaPad Flex 550i</a>をおすすめします。</p>
+            そのため、メモリが16GB、SSD容量が512GBで、Intel Core™ i7-1165G7 を搭載した<a href=","https://www.dell.com/ja-jp/shop/cty/pdp/spd/xps-13-9305-laptop/cax6300hlits16on3ojp?gacd=9643257-23732657-5785552-266271997-127759547&dgc=af&VEN1=/Vv6e0WKODg-HCJId2iHEvWGkwMrvmNQ0w&dclid=CIWX7aCls_YCFdMMvQodq9kF2w&nclid=DIBttjKlZEo-8QBoXQvCfzuePsqAVOgbZNvNUi6irqfJQk-ScuiSR2d27tOCOlWS","</a>XPS 13</a>や<a href=","https://www.lenovo.com/jp/ja/kakaku/notebooks/ideapad/flex-5-series/IdeaPad-Flex-5-14ITL-05/p/82HS00X3JP",">IdeaPad Flex 550i</a>をおすすめします。
+            また、「価格com」というサイトにて工学部の皆さんが快適に授業を受けられるスペックのPCの一覧表を作成しました。<a href","https://kakaku.com/pc/note-pc/itemlist.aspx?pdf_Spec101=39,53,54,56&pdf_Spec105=29,30&pdf_Spec113=11,13,16,18,20&pdf_Spec116=2&pdf_Spec301=11-13,13-14.5&pdf_Spec303=-1.0,1.0-1.5,1.5-2.0&pdf_Spec307=1000-,256-512,512-1000&pdf_Spec308=16-32,32-",">こちら</a>よりご確認ください。</p>
             </details>
             <details>
             <summary>人文社会科学部、農学部、理学部</summary>
             <p>レポート等を書いたりするのにパソコンは必須ですがハイスペックである必要はありません<br>
-            しかしながら、ある程度のスペックを確保すると快適に勉強することができるので、AMD Ryzen™ 7 5700Uを搭載した<a href=","https://deals.dell.com/ja-jp/productdetail/damd",">Inspiron 14 AMD</a>をお勧めします。</p>
+            しかしながら、ある程度のスペックを確保すると快適に勉強することができるので、AMD Ryzen™ 7 5700Uを搭載した<a href=","https://deals.dell.com/ja-jp/productdetail/damd",">Inspiron 14 AMD</a>をお勧めします。<br>
+            また、人文社会学部や農学部の皆さんが快適に作業できるスペックのPC一覧を「価格com」というサイトにて作成しました。<a href=","https://kakaku.com/pc/note-pc/itemlist.aspx?pdf_Spec012=1&pdf_Spec101=39,40,52,53,54,56&pdf_Spec113=16,18,19,20&pdf_Spec201=1800-2000,2000-2400,2400-2600&pdf_so=p1",">こちら</a>からご確認ください。</p>
             <h2>理学部の方へ</h2>
             <p>数式処理システムMathematicaや分子構造描画ツールChemOffice(ChemDraw)などの重たい各種アプリケーションを使うこともあるので、Corei7かRyzen7の最新世代のCPUを搭載した製品を購入すると快適に授業を受けられると思います。<br>
-            <a href=","https://www.dell.com/ja-jp/work/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/xps-13-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC/spd/xps-13-9305-laptop/cax6300hlits16on3ojp","</a>XPS 13</a>や<a href=","https://www.lenovo.com/jp/ja/kakaku/notebooks/ideapad/flex-5-series/IdeaPad-Flex-5-14ITL-05/p/82HS00X3JP",">IdeaPad Flex 550i</a>などは安定性と高性能を両立している最新世代のCorei7を搭載しているのでおすすめです。</p>
+            <a href=","https://www.dell.com/ja-jp/shop/cty/pdp/spd/xps-13-9305-laptop/cax6300hlits16on3ojp?gacd=9643257-23732657-5785552-266271997-127759547&dgc=af&VEN1=/Vv6e0WKODg-HCJId2iHEvWGkwMrvmNQ0w&dclid=CIWX7aCls_YCFdMMvQodq9kF2w&nclid=DIBttjKlZEo-8QBoXQvCfzuePsqAVOgbZNvNUi6irqfJQk-ScuiSR2d27tOCOlWS","</a>XPS 13</a>や<a href=","https://www.lenovo.com/jp/ja/kakaku/notebooks/ideapad/flex-5-series/IdeaPad-Flex-5-14ITL-05/p/82HS00X3JP",">IdeaPad Flex 550i</a>などは安定性と高性能を両立している最新世代のCorei7を搭載しているのでおすすめです。<br>
+            また、「価格com」というサイトにて理学部の皆さんが快適に授業を受けられるであろうスペックのPCの一覧表を作成しました。<a href","https://kakaku.com/pc/note-pc/itemlist.aspx?pdf_Spec101=39,53,54,56&pdf_Spec105=29,30&pdf_Spec113=11,13,16,18,20&pdf_Spec116=2&pdf_Spec301=11-13,13-14.5&pdf_Spec303=-1.0,1.0-1.5,1.5-2.0&pdf_Spec307=1000-,256-512,512-1000&pdf_Spec308=16-32,32-",">こちら</a>よりご確認ください。</p>
             </details>
             <details>
             <summary>教育学部、地域創造学環</summary>
@@ -238,11 +251,14 @@
             また、より作業を快適にするためにメモリ容量の多いものを購入することをおすすめします。</p>
           
             <h2>教育学部技術教育専修の人へ</h2>
-            <p>他学部に比べて高いスペックのPCが要求されます。授業を快適に行うには高いスペックのPCが要求されるため、メモリが16GB、SSD容量が512GBで、Intel Core™ i7-1165G7 を搭載した<a href=","https://www.dell.com/ja-jp/work/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/xps-13-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC/spd/xps-13-9305-laptop/cax6300hlits16on3ojp","</a>XPS 13</a>や<a href=","https://www.lenovo.com/jp/ja/kakaku/notebooks/ideapad/flex-5-series/IdeaPad-Flex-5-14ITL-05/p/82HS00X3JP",">IdeaPad Flex 550i</a>をおすすめします。<br>
+            <p>他学部に比べて高いスペックのPCが要求されます。授業を快適に行うには高いスペックのPCが要求されるため、メモリが16GB、SSD容量が512GBで、Intel Core™ i7-1165G7 を搭載した<a href=","https://www.dell.com/ja-jp/shop/%E3%83%87%E3%83%AB%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/xps-13-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC/spd/xps-13-9305-laptop/cax6300hlits16on3ojp#features_section","</a>XPS 13</a>や<a href=","https://www.lenovo.com/jp/ja/kakaku/notebooks/ideapad/flex-5-series/IdeaPad-Flex-5-14ITL-05/p/82HS00X3JP",">IdeaPad Flex 550i</a>をおすすめします。<br>
+            また、「価格com」というサイトにて技術教育専修の人が快適に授業を受けられるスペックのPC一覧を作成しました。<a href=","https://kakaku.com/pc/note-pc/itemlist.aspx?pdf_Spec101=39,53,54,56&pdf_Spec105=29,30&pdf_Spec113=11,13,16,18,20&pdf_Spec116=2&pdf_Spec301=11-13,13-14.5&pdf_Spec303=-1.0,1.0-1.5,1.5-2.0&pdf_Spec307=1000-,512-1000&pdf_Spec308=16-32,32-",">こちら</a>よりご覧ください。
             </p>
             <h2>それ以外の人へ</h2>
             <p>レポート等を書いたりするのにパソコンは必須ですがハイスペックである必要はありません<br>
-            しかしながら、ある程度のスペックを確保すると快適に勉強することができるので、AMD Ryzen™ 7 5700Uを搭載した<a href=","https://deals.dell.com/ja-jp/productdetail/damd",">Inspiron 14 AMD</a>をお勧めします</p>
+            しかしながら、ある程度のスペックを確保すると快適に勉強することができるので、AMD Ryzen™ 7 5700Uを搭載した<a href=","https://deals.dell.com/ja-jp/productdetail/damd",">Inspiron 14 AMD</a>をお勧めします<br>
+            また、上記以外の人向けのPC一覧も作成してあります<a href","https://kakaku.com/pc/note-pc/itemlist.aspx?pdf_Spec012=1&pdf_Spec101=39,40,52,53,54,56&pdf_Spec113=16,18,19,20&pdf_Spec201=1800-2000,2000-2400,2400-2600&pdf_so=p1",">こちら</a>からご確認ください
+            </p>
             </details>
             
             
