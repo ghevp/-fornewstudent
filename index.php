@@ -239,7 +239,7 @@
             <h2>理学部の方へ</h2>
             <p>数式処理システムMathematicaや分子構造描画ツールChemOffice(ChemDraw)などの重たい各種アプリケーションを使うこともあるので、Corei7かRyzen7の最新世代のCPUを搭載した製品を購入すると快適に授業を受けられると思います。<br>
             <a href=","https://www.dell.com/ja-jp/shop/cty/pdp/spd/xps-13-9305-laptop/cax6300hlits16on3ojp?gacd=9643257-23732657-5785552-266271997-127759547&dgc=af&VEN1=/Vv6e0WKODg-HCJId2iHEvWGkwMrvmNQ0w&dclid=CIWX7aCls_YCFdMMvQodq9kF2w&nclid=DIBttjKlZEo-8QBoXQvCfzuePsqAVOgbZNvNUi6irqfJQk-ScuiSR2d27tOCOlWS","</a>XPS 13</a>や<a href=","https://www.lenovo.com/jp/ja/kakaku/notebooks/ideapad/flex-5-series/IdeaPad-Flex-5-14ITL-05/p/82HS00X3JP",">IdeaPad Flex 550i</a>などは安定性と高性能を両立している最新世代のCorei7を搭載しているのでおすすめです。<br>
-            また、「価格com」というサイトにて理学部の皆さんが快適に授業を受けられるであろうスペックのPCの一覧表を作成しました。<a href","https://kakaku.com/pc/note-pc/itemlist.aspx?pdf_Spec101=39,53,54,56&pdf_Spec105=29,30&pdf_Spec113=11,13,16,18,20&pdf_Spec116=2&pdf_Spec301=11-13,13-14.5&pdf_Spec303=-1.0,1.0-1.5,1.5-2.0&pdf_Spec307=1000-,256-512,512-1000&pdf_Spec308=16-32,32-",">こちら</a>よりご確認ください。</p>
+            また、「価格com」というサイトにて理学部の皆さんが快適に授業を受けられるであろうスペックのPCの一覧表を作成しました。<a href=","https://kakaku.com/pc/note-pc/itemlist.aspx?pdf_Spec101=39,53,54,56&pdf_Spec105=29,30&pdf_Spec113=11,13,16,18,20&pdf_Spec116=2&pdf_Spec301=11-13,13-14.5&pdf_Spec303=-1.0,1.0-1.5,1.5-2.0&pdf_Spec307=1000-,256-512,512-1000&pdf_Spec308=16-32,32-",">こちら</a>よりご確認ください。</p>
             </details>
             <details>
             <summary>教育学部、地域創造学環</summary>
