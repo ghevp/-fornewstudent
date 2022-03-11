@@ -362,7 +362,8 @@
             <a class=","twitter-timeline"," data-lang=","ja"," data-height=","500"," href=","https://twitter.com/Gakuzyo_chan?ref_src=twsrc%5Etfw",">Tweets by Gakuzyo_chan</a> <script async src=","https://platform.twitter.com/widgets.js"," charset=","utf-8","></script> 
             <h2>更新履歴</h2>
             <time datetime=","2022-03-11",">2022/3/6</time>
-            <p>アマゾンアソシエイトについてを追記しました</p>
+            <p>アマゾンアソシエイトについてを追記しました<br>
+            また、新入生へのネットリテラシーについての情報更新も行いました。</p>
             <time datetime=","2022-03-06",">2022/3/6</time>
             <p>このウェブサイトを新規製作しました</p>
             <time datetime=","2022-03-08",">2022/3/8</time>
