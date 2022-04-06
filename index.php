@@ -13,10 +13,13 @@
      $title = array('home' => "ホーム",
      'newstudents' => "新入生の皆さんへ",
      'notice'=>"おしらせ",
-     'question'=>"困った時");  
+     'question'=>"困った時",
+    'discord'=>"discordの大学hubについて");  
     
 ?>
     <head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6911517647778874"
+     crossorigin="anonymous"></script>
         <meta charset="UTF-8">
        <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-0P8XN7BCL8"></script>
@@ -79,7 +82,7 @@
       if ($month==2||$month==3){
    echo" <img src=","img/fornewstudent.png",">";
             }else{
-                echo"<img src","img/otamesi.png",">";
+                echo"<img src=","img/otamesi.png",">";
             };
       };
 ?>
@@ -110,9 +113,13 @@
               <p>授業のレビューサイトです。授業の評価や内容等を閲覧することができます。<br>
               授業を取る前に一度見てみるのはいかがでしょうか？<br>
               アクセスは<a href=","https://campus.nikki.ne.jp/?module=lesson&univ=%C0%C5%B2%AC%C2%E7%B3%D8",">こちら</a>から！</p>
+              <li>discord の大学hub</li>
+              <p>discordの大学hubを使用することで同じ大学の人とゲームをしたり、授業についての情報交換を行うことができます。<br>
+              詳しくは<a href=","index.php?page=discord",">こちら</a>からどうぞ！</p>
               </div>";
             };
         if("newstudents"==$page){
+            
             echo"<div class=","first-check","><h1>初めにチェック‼
             </div>
             
@@ -385,6 +392,22 @@
             <h2>協力者募集</h2>
             <p>このウェブサイトでは今後も更新作業を続ける予定です。もしも更新作業に協力してくれるという方がいましたら、作業用のdiscordに招待致しますのでDMを送ってくださると幸いです。</p>
             </div>";
+        };
+        if("discord"==$page){
+            echo"
+            <div class=","discord",">
+            <h2>discordの大学鯖って何？</h2>
+            <p>discordの機能の一つで大学のメールアドレス認証で同じ学校に通っている人のみが参加できるものです。<br>
+            ゲームをしたり、授業についての情報交流を行ったりしています。実は中の人、その中でamong usをしていろんな人と仲良くなったりしました<br>
+            この機能を使ってみることを強くお勧めします。</p>
+            <details>
+            <summary>discordの大学hubへの入り方</summary>
+            <p>まず最初に、discordのアカウントを持っていない人はアカウントを作成しましょう。<br>
+            それが終わったら、discordを起動しましょう。</p>
+            </details>
+
+            ";
+
         };
        
         
