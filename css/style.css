@@ -64,11 +64,11 @@ a{
         right:0;
         color: #fff;
         background-color: #1da1ff;
-        display: none;
+        
 
     }   
     .header-site-menu.is-show{
-        display: block;
+        display: none;
     }
    
     .toggle-menu-button{
